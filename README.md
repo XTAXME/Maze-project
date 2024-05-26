@@ -1,1 +1,1 @@
-# Maze-project
+Maze project
